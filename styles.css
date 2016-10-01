@@ -1,0 +1,103 @@
+@@font-face {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    font-family: 'Source Sans Pro';
+    font-weight: lighter;
+    font-size: 100%;
+}
+
+time {
+    display: inline-block;
+    float: right;
+    font-weight: bold;
+    opacity: .65;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.name {
+    width: 90%;
+    height: 10%;
+    margin: 0 auto;
+    padding: 1.5%;
+    border-top: medium solid black;
+    border-bottom: medium solid black;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 33px;
+}
+
+.contactInfo {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+}
+
+.contactInfo li {
+    margin: auto;
+    list-style-type: none;
+    display: inline;
+    width: 100%;
+}
+
+.contactInfo li {
+    margin: 1.5%;
+}
+
+.place {
+    margin: 0;
+    margin-top: 5px;
+    font-weight: bold;
+    width: 37%;
+    display: block;
+    font-size: 110%;
+}
+
+.skills {
+    width: 100%;
+}
+
+.skills td {
+    text-align: center;
+    width: 16.6%;
+}
+
+.title {
+    font-weight: bold;
+    /*font-size: 100%;*/
+    display: inline;
+    margin-top: 0;
+}
+
+h2 {
+  margin: 0 auto;
+  font-size: 125%;
+}
+
+h1 {
+  margin: 0 auto;
+  font-size: 125%;
+}
+
+#aM{
+  font-size: 92.5%;
+}
+
+ul {
+  margin: 0 auto;
+}
+
+p {
+  margin: 0 auto;
+}
