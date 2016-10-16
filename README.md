@@ -3,5 +3,3 @@
 This is my most up to date resume.
 
 Feel free to contact me!
-
-Updated resume coming soon!!!
