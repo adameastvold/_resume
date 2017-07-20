@@ -79,7 +79,7 @@ li a {
 
 .skills td {
     text-align: center;
-    width: 16.6%;
+    width: 12.5%;
 }
 
 .title {
@@ -117,5 +117,5 @@ p {
 
 .experience {
   margin-top: 10px;
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
